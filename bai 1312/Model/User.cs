@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace bai_1312.Model
 {
-    internal class User
-    {
+    internal class User{
+        public int Email { get; set; }
     }
 }
