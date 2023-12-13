@@ -7,10 +7,15 @@ using System.Threading.Tasks;
 namespace bai_1312.Model
 {
     internal class User{
+<<<<<<< HEAD
 
         public int UserName { get; set; }
 
         
 
+=======
+        
+        public int Email { get; set; }
+>>>>>>> V5
     }
 }
