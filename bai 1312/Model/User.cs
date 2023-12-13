@@ -7,6 +7,10 @@ using System.Threading.Tasks;
 namespace bai_1312.Model
 {
     internal class User{
+
         public int UserName { get; set; }
+
+        
+
     }
 }
